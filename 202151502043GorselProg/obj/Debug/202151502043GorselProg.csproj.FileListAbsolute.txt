@@ -1,0 +1,11 @@
+C:\Users\Merve\source\repos\202151502043GorselProg\bin\Debug\202151502043GorselProg.exe.config
+C:\Users\Merve\source\repos\202151502043GorselProg\bin\Debug\202151502043GorselProg.exe
+C:\Users\Merve\source\repos\202151502043GorselProg\bin\Debug\202151502043GorselProg.pdb
+C:\Users\Merve\source\repos\202151502043GorselProg\obj\Debug\202151502043GorselProg.csproj.AssemblyReference.cache
+C:\Users\Merve\source\repos\202151502043GorselProg\obj\Debug\202151502043GorselProg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Merve\source\repos\202151502043GorselProg\obj\Debug\_202151502043GorselProg.Form1.resources
+C:\Users\Merve\source\repos\202151502043GorselProg\obj\Debug\_202151502043GorselProg.Properties.Resources.resources
+C:\Users\Merve\source\repos\202151502043GorselProg\obj\Debug\202151502043GorselProg.csproj.GenerateResource.cache
+C:\Users\Merve\source\repos\202151502043GorselProg\obj\Debug\202151502043GorselProg.csproj.CoreCompileInputs.cache
+C:\Users\Merve\source\repos\202151502043GorselProg\obj\Debug\202151502043GorselProg.exe
+C:\Users\Merve\source\repos\202151502043GorselProg\obj\Debug\202151502043GorselProg.pdb
